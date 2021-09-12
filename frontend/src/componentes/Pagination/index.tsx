@@ -4,7 +4,7 @@ type Props = {
     page: SalePage;
     onPageChange: Function;
 }
-
+//teste
 const Pagination = ({ page, onPageChange }: Props) => {
     return <div className="d-flex justify-content-center">
         <nav>
